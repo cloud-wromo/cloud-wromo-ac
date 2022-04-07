@@ -16,7 +16,7 @@ With **CloudWromo**, you can run your **PHP application** in any cloud or dedica
   </a>
 </p>
 
-## :boom: Highlights
+## :Free: Highlights
 
 * **FREE**
 * **Easy to use Control Panel**
