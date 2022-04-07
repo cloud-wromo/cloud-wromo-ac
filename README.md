@@ -43,7 +43,7 @@ With **CloudWromo**, you can run your **PHP application** in any cloud or dedica
 
 ## :chart_with_upwards_trend: Roadmap
 
-* [CloudWromo 2](https://github.com/cloud-wromo/cloudwromo-ac/projects) - **ETA: Q2 2022** 🥳
+* [CloudWromo 2](https://github.com/cloud-wromo/cloudwromo-ac/projects) - ** **2022**
 
 ## :sparkling_heart: Support This Project
 
